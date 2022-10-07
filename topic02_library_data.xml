@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Library>
+    <Book catalogue="technical">
+        <ISBN>978-3-16-148410-1</ISBN>
+        <title>Mechanical Engineering </title>
+        <author>John Stone</author>
+    </Book>
+    <Book catalogue="technical">
+        <ISBN>978-3-16-148410-2</ISBN>
+        <title>Electronic Engineering </title>
+        <author>Laura Murray</author>
+    </Book>
+    <Book catalogue="cookery">
+        <ISBN>978-3-16-148410-3</ISBN>
+        <title>Vegan Ideas</title>
+        <author>Anthony Bennet</author>
+    </cookery>
+    <Book catalogue="cookery">
+        <ISBN>978-3-16-148410-4</ISBN>
+        <title>Italian Cuisine</title>
+        <author>Davide Gucini</author>
+    </Book>
+</Library>
